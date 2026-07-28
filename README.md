@@ -1,15 +1,15 @@
-# Stock Trading Platform (Java)
+# Student Grade Management System
+
+## Description
+Java console application to manage student grades.
 
 ## Features
-- View Market Data
-- Buy Stocks
-- Sell Stocks
-- Portfolio Management
-- View Balance
-- Console-based Java application using OOP.
+- Input student names and marks
+- Store data using ArrayList
+- Calculate average marks
+- Find highest marks
+- Find lowest marks
+- Display summary report
 
-## Files
-- Stock.java
-- User.java
-- Portfolio.java
-- StockTradingPlatform.java
+## Language
+Java
